@@ -209,7 +209,7 @@ docs/
         cloud.md
 ```
 
-Given these 3 guides have titles similar to their filename, and `subcategory: "Authentication"` has been added for the first two, the Terraform Registry would display this navigation structure:
+Assuming that these three guides have titles similar to their filenames, and the first two include `subcategory: "Authentication"` in their frontmatter, the Terraform Registry would display this navigation structure:
 
 * example Provider
 * Guides
