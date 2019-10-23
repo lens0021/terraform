@@ -20,7 +20,7 @@ Docs are imported to the Terraform Registry for each Git tag matching the Semver
 
 ### Storage Limits
 
-The maximum number of documents for a single provider version allowed is 1000.
+The maximum number of documents allowed for a single provider version is 1000.
 
 Each document can contain no more than 500KB of data. Documents which exceed this limit will be truncated, and a note will be displayed in the Terraform Registry.
 
